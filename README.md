@@ -1,1 +1,2 @@
-# pubgmobileconfigdecrypt
+# pubgmobile_decrypt
+
